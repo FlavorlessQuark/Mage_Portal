@@ -22,12 +22,20 @@ So you can teleport easily between projects
 **[Math_Tools][4]**
 
   - Helpful functions when math.h isn't enough
+  
+**[Black_Hole][10]**
+
+  - Here are thoughts and processes that lead me to the completion of my projects, as well as what I am currently working on or would like to learn in the future.
 
 ## Graphics & sandbox
 
 **[Boids][5]**
 
   - Flocking Simulation
+  
+ **[Obj_Renderer][10]**
+
+  - Everyone uses rendering engines... But how do they works? Let us find out...
 
 ## Games
 
@@ -38,6 +46,10 @@ So you can teleport easily between projects
 **[Game_of_Ur][7]**
 
   - My attempt at making online multiplayer, albeit with a thousand years old game. Tradition and modernity?
+  
+**[Tiles][8]**
+
+  - What is the fastest way to find what you're clicking on?
 
 [0]: https://github.com/FlavorlessQuark/Mage_Portal
 [1]: https://github.com/FlavorlessQuark/LeetCode
@@ -47,3 +59,6 @@ So you can teleport easily between projects
 [5]: https://github.com/Dungeons-and-Graphics/Boids
 [6]: https://github.com/Games-and-dragons/PacMan
 [7]: https://github.com/Games-and-dragons/Game_of_Ur
+[8]: https://github.com/Games-and-dragons/tiles
+[9]: https://github.com/FlavorlessQuark/Black_Hole
+[10]: https://github.com/LumenNoctis/Obj_renderer
