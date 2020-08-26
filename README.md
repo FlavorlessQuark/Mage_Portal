@@ -23,7 +23,7 @@ So you can teleport easily between projects
 
   - Helpful functions when math.h isn't enough
   
-**[Black_Hole][10]**
+**[Black_Hole][9]**
 
   - Here are thoughts and processes that lead me to the completion of my projects, as well as what I am currently working on or would like to learn in the future.
 
@@ -33,7 +33,7 @@ So you can teleport easily between projects
 
   - Flocking Simulation
   
- **[Obj_Renderer][10]**
+ **[Obj_Renderer][9]**
 
   - Everyone uses rendering engines... But how do they works? Let us find out...
 
