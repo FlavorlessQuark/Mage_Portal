@@ -6,10 +6,6 @@ So you can teleport easily between projects
 **[Mage_Portal][0]**
   
   - You are here!
-
-**[LeetCode][1]**
-  
-  -  Here will be stored the LeetCode exercises I have completed, from August 21st 2020 onwards
     
 **[Quantum_Vault][2]**
      
@@ -26,6 +22,16 @@ So you can teleport easily between projects
 **[Black_Hole][9]**
 
   - Here are thoughts and processes that lead me to the completion of my projects, as well as what I am currently working on or would like to learn in the future.
+
+## Getting Gud
+
+**[Advent of Code][11]**
+
+  - What better Christmas present than the acquisition of a new language? 25 exercises per year, each year it's own languague
+  
+**[LeetCode][1]**
+  
+  -  Here will be stored the LeetCode exercises I have completed, from August 21st 2020 onwards
 
 ## Graphics & sandbox
 
@@ -62,3 +68,4 @@ So you can teleport easily between projects
 [8]: https://github.com/Games-and-dragons/tiles
 [9]: https://github.com/FlavorlessQuark/Black_Hole
 [10]: https://github.com/LumenNoctis/Obj_renderer
+[11]: https://github.com/FlavorlessQuark/Advent_of_Code
