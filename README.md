@@ -22,6 +22,11 @@ So you can teleport easily between projects
 **[Black_Hole][9]**
 
   - Here are thoughts and processes that lead me to the completion of my projects, as well as what I am currently working on or would like to learn in the future.
+  
+**[C][23]**
+
+- My own C lirary.
+
 
 ## Getting Gud
 
@@ -31,7 +36,11 @@ So you can teleport easily between projects
   
 **[LeetCode][1]**
   
-  -  Here will be stored the LeetCode exercises I have completed, from August 21st 2020 onwards
+-  Here will be stored the LeetCode exercises I have completed, from August 21st 2020 onwards
+  
+**[Project Euler][24]**
+
+- Project Euler problems. I don't do them often | Been trying to make a good prime generator... easier said than done.
 
 ## Graphics & sandbox
 
@@ -42,6 +51,14 @@ So you can teleport easily between projects
  **[Obj_Renderer][9]**
 
   - Everyone uses rendering engines... But how do they works? Let us find out...
+  
+  **[Raymarching][25]**
+  
+  - Raytracing is too mainstream, so I made a raymarcher.
+  
+  **[Gradients][26]**
+
+ - This generates gradients as SDL_Textures.
 
 ## Games
 
@@ -55,7 +72,11 @@ So you can teleport easily between projects
   
 **[Tiles][8]**
 
-  - What is the fastest way to find what you're clicking on?
+  - Not a game. Just trying screen partitionning;
+  
+  **[Snake][27]**
+  
+  -Recreation of Snake;
   
   ## 42Curriculum
   
@@ -97,10 +118,10 @@ So you can teleport easily between projects
 [2]: https://github.com/FlavorlessQuark/Quantum_Vault
 [3]: https://github.com/FlavorlessQuark/SDL_Tools
 [4]: https://github.com/FlavorlessQuark/Math_Tools
-[5]: https://github.com/Dungeons-and-Graphics/Boids
-[6]: https://github.com/Games-and-dragons/PacMan
-[7]: https://github.com/Games-and-dragons/Game_of_Ur
-[8]: https://github.com/Games-and-dragons/tiles
+[5]: https://github.com/LumenNoctis/Boids
+[6]: https://github.com/Compute-Progress/PacMan
+[7]: https://github.com/Compute-Progress/Game_of_Ur
+[8]: https://github.com/Compute-Progress/tiles
 [9]: https://github.com/FlavorlessQuark/Black_Hole
 [10]: https://github.com/LumenNoctis/Obj_renderer
 [11]: https://github.com/FlavorlessQuark/Advent_of_Code
@@ -115,3 +136,9 @@ So you can teleport easily between projects
 [20]: https://github.com/42Curriculum/libasm
 [21]: https://github.com/42Curriculum/ft_philosophers
 [22]: https://github.com/42Curriculum/ft_get_next_line
+[23]: https://github.com/FlavorlessQuark/C
+[24]: https://github.com/FlavorlessQuark/Ptoject_Euler
+[25]: https://github.com/Compute-Progress/RayMarching
+[26]: https://github.com/Compute-Progress/Gradients
+[27]: https://github.com/Compute-Progress/Snake
+
