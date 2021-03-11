@@ -13,7 +13,7 @@ So you can teleport easily between projects
 
 **[SDL_Tools][3]**
 
-  - Stored in the vault, these files allow for a quick start with any SDL project. 
+  - SDL2 Wrapper here to save you ever increasing amounts of time
 
 **[Math_Tools][4]**
 
@@ -27,12 +27,11 @@ So you can teleport easily between projects
 
 - My own C lirary.
 
-
 ## Getting Gud
 
 **[Advent of Code][11]**
 
-  - What better Christmas present than the acquisition of a new language? 25 exercises per year, each year it's own languague
+  - Yarly coding contest
   
 **[LeetCode][1]**
   
