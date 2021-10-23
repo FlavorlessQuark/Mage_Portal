@@ -136,7 +136,7 @@ So you can teleport easily between projects
 [21]: https://github.com/42Curriculum/ft_philosophers
 [22]: https://github.com/42Curriculum/ft_get_next_line
 [23]: https://github.com/FlavorlessQuark/C
-[24]: https://github.com/FlavorlessQuark/Ptoject_Euler
+[24]: https://github.com/FlavorlessQuark/Project_Euler
 [25]: https://github.com/Compute-Progress/RayMarching
 [26]: https://github.com/Compute-Progress/Gradients
 [27]: https://github.com/Compute-Progress/Snake
