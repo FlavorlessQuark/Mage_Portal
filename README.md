@@ -11,9 +11,13 @@ So you can teleport easily between projects
      
   - Magic vault extending across all of SpaceTime and in all additional dimensions. It contains everything necessary to start a project. From headers to Makefiles.
 
+**[Old SDL_Tools][3]**
+
+  - SDL2 Wrapper, includes rendering, animations, buttons and simple collisions
+  
 **[SDL_Tools][3]**
 
-  - SDL2 Wrapper here to save you ever increasing amounts of time
+  - New version of SDL tools, owkr in progress.
 
 **[Math_Tools][4]**
 
@@ -43,11 +47,23 @@ So you can teleport easily between projects
 
 ## Graphics & sandbox
 
+**[Edge detection][30]**
+
+- Program to detect edges in user drawings
+  
+**[Fractal][31]**
+
+- Fractal rendering with gradient colors and sine colors
+
+**[Inverse Kinematics][32]**
+
+- My own take on IK
+
 **[Boids][5]**
 
   - Flocking Simulation
   
- **[Obj_Renderer][9]**
+ **[TinyRenderer][10]**
 
   - Everyone uses rendering engines... But how do they works? Let us find out...
   
@@ -122,7 +138,7 @@ So you can teleport easily between projects
 [7]: https://github.com/Compute-Progress/Game_of_Ur
 [8]: https://github.com/Compute-Progress/tiles
 [9]: https://github.com/FlavorlessQuark/Black_Hole
-[10]: https://github.com/LumenNoctis/Obj_renderer
+[10]: https://github.com/LumenNoctis/TinyRenderer
 [11]: https://github.com/FlavorlessQuark/Advent_of_Code
 [12]: https://github.com/42Curriculum/faster_libft
 [13]: https://github.com/42Curriculum/libft
@@ -140,4 +156,8 @@ So you can teleport easily between projects
 [25]: https://github.com/Compute-Progress/RayMarching
 [26]: https://github.com/Compute-Progress/Gradients
 [27]: https://github.com/Compute-Progress/Snake
-
+[28]: https://github.com/FlavorlessQuark/old_SDL_Tools
+[29]: https://github.com/FlavorlessQuark/TransferHistory
+[30]: https://github.com/LumenNoctis/Shape_detect
+[31]: https://github.com/LumenNoctis/Fractals
+[32]: https://github.com/LumenNoctis/InverseKinematics
