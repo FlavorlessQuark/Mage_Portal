@@ -17,7 +17,7 @@ So you can teleport easily between projects
   
 **[SDL_Tools][3]**
 
-  - New version of SDL tools, owkr in progress.
+  - WIP. New version of SDL tools, essentially a small game engin. At the moment, includes : render queues, buttons, input mappings, animations and CSS-like element positionning and alignment
 
 **[Math_Tools][4]**
 
